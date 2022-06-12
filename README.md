@@ -20,6 +20,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
