@@ -15,13 +15,6 @@
  <img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=55%/><br>
 </p>
 
-<div align='center'>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
- <br>
- <img src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
-</div>
-
-
 <h3 align='center'> Languages: </h3>
 
 <div align='center'>
@@ -51,4 +44,9 @@
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
  
+</div>
+
+<div align='center'>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
 </div>
