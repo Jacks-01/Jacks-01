@@ -12,6 +12,14 @@
 - I like working with UI/UX design the most, but I also really enjoy databases!
 - In the future I would like to learn C#, .NET, and Python.
 - I have 3 kitties
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 
 
