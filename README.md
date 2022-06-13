@@ -6,7 +6,7 @@
 
 <h2> Fun Facts </h2>
 
-<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='400' align='right'>
+<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='400' align='center'>
 
 - I'm currently creating apps with React / Next.
 - Gaming is what first got me interested into software development!
