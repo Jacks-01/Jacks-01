@@ -15,9 +15,12 @@
 &nbsp;
 &nbsp;
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage)](https://git.io/streak-stats){ align: center;} 
+<p align='center'> 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage)
-
+  
+</p>
 
 <h3> Languages: </h3>
 
