@@ -6,11 +6,13 @@
 
 <h2> Fun Facts </h2>
 
-<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='300' align='right'>
+<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='400' align='right'>
 
-- I'm currently working with React / Next.
+- I'm currently creating apps with React / Next.
 - Gaming is what first got me interested into software development!
-- 
+- I like working with UI/UX design the most, but I also really enjoy databases!
+- In the future I would like to learn C#, .NET, and Python.
+- I have 3 kitties
 &nbsp;
 &nbsp;
 
@@ -19,7 +21,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage)
 
 
-<h3> Languages </h3>
+<h3> Languages: </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
