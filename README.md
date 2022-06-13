@@ -5,26 +5,20 @@
 <p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
 
 <h2> Fun Facts </h2>
-<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=55% align="right">
+<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=55% align="right"/><br>
 
 - I'm currently creating apps with React / Next.
 - Gaming is what first got me interested into software development!
 - I like working with UI/UX design the most, but I also really enjoy databases!
 - In the future I would like to learn C#, .NET, and Python.
-- I have 3 kitties
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
+- I have 3 kitties<br><br><br><br><br><br><br><br><br><br>
 
 
 
 <div align='center'>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
+ &nbsp;
+ &nbsp;
  <img src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
 </div>
 
