@@ -5,7 +5,7 @@
 <p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
 
 <h2> Fun Facts </h2>
-<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='250' width='250' align="right">
+<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='250' align="right">
 
 - I'm currently creating apps with React / Next.
 - Gaming is what first got me interested into software development!
