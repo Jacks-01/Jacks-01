@@ -17,8 +17,8 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
- <img src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
+ <img align='center' src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
+ <img align='center' src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
 </div>
 
 
