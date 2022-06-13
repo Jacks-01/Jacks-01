@@ -1,9 +1,26 @@
-### Hi there 👋
+<h1> Welcome! I'm Jack Stubblefield <img src='https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif' height='75' width='100'> </h1>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=tokyonight)](https://git.io/streak-stats) 
+<h3> A little bit about me... </h3> 
+
+<p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
+
+<h2> Fun Facts </h2>
+
+<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='300' align='right'>
+
+- I'm currently working with React / Next.
+- Gaming is what first got me interested into software development!
+- 
+&nbsp;
+&nbsp;
 
 
-### Languages
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage)](https://git.io/streak-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage)
+
+
+<h3> Languages </h3>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,13 +37,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jack-stubblefield-a2b32517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 </p>
-https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg
