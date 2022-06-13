@@ -15,14 +15,11 @@
 &nbsp;
 &nbsp;
 
-<a href="https://github.com/Jacks-01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
-</a>
 
-<a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
-</a>
- 
+<div style="display: flex; flex-direction: row;">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage" />
+</div>
 
 
 <h3> Languages: </h3>
