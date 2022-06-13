@@ -5,7 +5,7 @@
 <p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
 
 <h2> Fun Facts </h2>
-<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' height='350' align="right">
+<img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=100% align="right">
 
 - I'm currently creating apps with React / Next.
 - Gaming is what first got me interested into software development!
@@ -15,8 +15,7 @@
 &nbsp;
 &nbsp;
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jacks-01&theme=ayu-mirage)](https://git.io/streak-stats){ align: center;} 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacks-01&show_icons=true&theme=ayu-mirage)
 
 
