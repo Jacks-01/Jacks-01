@@ -4,11 +4,12 @@
 
 <p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
 
-- :computer: I'm currently creating apps with React / Next.
-- Gaming is what first got me interested into software development!
-- I like working with UI/UX design the most, but I also really enjoy databases!
-- In the future I would like to learn C#, .NET, and Python.
-- I have 3 kitties<br><br><br>
+- 💻 I'm currently creating apps with React / Next.
+- 😄 Pronouns: He/Him
+- 🎮 Gaming is what first got me interested into software development!
+- 🖌️ I like working with UI/UX design the most, but I also really enjoy databases!
+- 📆 In the future I would like to learn C#, .NET, and Python.
+- 🐱 I have 3 kitties<br><br><br>
 
 <p align='center'>
  <img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=55%/><br>
