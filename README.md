@@ -4,10 +4,9 @@
 
 <p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
 
-- 💻 I'm currently creating apps with React / Next.
+- 💻 I'm currently creating apps with React, I also do game development as a hobby!
 - 😄 Pronouns: He/Him
-- 🎮 Gaming is what first got me interested into software development!
-- 🖌️ I like working with UI/UX design the most, but I also really enjoy databases!
+- 🎮 Gaming is what first got me interested into software development
 - 📆 In the future I would like to learn C#, .NET, and Python.
 - 🐱 I have 3 kitties<br><br><br>
 
@@ -21,6 +20,7 @@
  
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
@@ -59,6 +59,7 @@
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
  
  
 </div>
