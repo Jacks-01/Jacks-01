@@ -2,12 +2,12 @@
 
 <h3> A little bit about me... </h3> 
 
-<p> I'm a student at DeltaV Code School in Cedar Rapids, IA. I've been learning full stack development since Feburary 2022. I love learning new technologies and I am passionate about using software to make a difference in peoples lives.</p>
+<p> I'm a full stack developer currently working as a back-end developer currently. I started my coding journey back in late 2021, and I can't wait to see where it takes me!</p>
 
-- 💻 I'm currently creating apps with React, I also do game development as a hobby!
+- 💻 For my day job I mostly work with SQL, SSRS, and Oracle. In my free time I like to build web apps that align with my interests. I'm trying to mix my data skills with my coding skills for my current project.
 - 😄 Pronouns: He/Him
 - 🎮 Gaming is what first got me interested into software development
-- 📆 In the future I would like to learn C#, .NET, and Python.
+- 📆 In the future I would like to learn Python and strengthen my knowledge of C# and .NET.
 - 🐱 I have 3 kitties<br><br><br>
 
 <p align='center'>
