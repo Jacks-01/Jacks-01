@@ -2,13 +2,12 @@
 
 <h3> A little bit about me... </h3> 
 
-<p> I'm a full stack developer currently working as a back-end developer currently. I started my coding journey back in late 2021, and I can't wait to see where it takes me!</p>
+<p> I'm a full stack developer currently doing a mix of back-end development and BI / data analysis. </p>
 
-- 💻 For my day job I mostly work with SQL, SSRS, and Oracle. In my free time I like to build web apps that align with my interests. I'm trying to mix my data skills with my coding skills for my current project.
+- 💻 
 - 😄 Pronouns: He/Him
 - 🎮 Gaming is what first got me interested into software development
-- 📆 In the future I would like to learn Python and strengthen my knowledge of C# and .NET.
-- 🐱 I have 3 kitties<br><br><br>
+- 🐱 I have 3 cats<br><br><br>
 
 <p align='center'>
  <img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=55%/><br>
