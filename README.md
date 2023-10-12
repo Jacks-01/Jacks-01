@@ -4,7 +4,6 @@
 
 <p> I'm a full stack developer currently doing a mix of back-end development and BI / data analysis. </p>
 
-- 💻 
 - 😄 Pronouns: He/Him
 - 🎮 Gaming is what first got me interested into software development
 - 🐱 I have 3 cats<br><br><br>
