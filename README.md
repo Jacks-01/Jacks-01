@@ -8,10 +8,6 @@
 - 🎮 Gaming is what first got me interested into software development
 - 🐱 I have 3 cats<br><br><br>
 
-<p align='center'>
- <img src='https://c.tenor.com/P9pPZ1prRCMAAAAd/pokemon-pikachu.gif' width=55%/><br>
-</p>
-
 <h3 align='center'> Languages: </h3>
 
 <div align='center'>
